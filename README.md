@@ -29,10 +29,14 @@ Both combined and labeled for supervised training.
 pip install scikit-learn pandas numpy joblib
 ```
 2️⃣ Train the model
-```python train.py
+```
+python train.py
+
 ```
 3️⃣ Predict with custom input
-```python predict.py
+```
+python predict.py
+
 ```
 
 Enter news text: Government announces a new education bill for students.
