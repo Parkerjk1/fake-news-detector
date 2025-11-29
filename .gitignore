@@ -1,0 +1,8 @@
+*.csv
+*.h5
+*.keras
+*.pkl
+news_data.csv
+fake.csv
+true.csv
+__pycache__/
